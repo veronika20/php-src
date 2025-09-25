@@ -197,3 +197,5 @@
 2025-11-25 21:51:00 | WARN | repo=php-src | action=commit
 2025-01-15 14:38:00 | WARN | repo=php-src | action=commit
 2025-08-17 20:28:00 | WARN | repo=php-src | action=commit
+2025-07-01 21:24:00 | WARN | repo=php-src | action=pull
+2025-09-25 18:13:00 | WARN | repo=php-src | action=commit
